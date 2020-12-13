@@ -1,3 +1,13 @@
+'''
+Escreva um programa que imprime um padrão na tela. O programa deve receber um valor inteiro 'n',
+que determina o número de colunas e linhas que o padrão terá.
+
+Entrada: 5          Saida:000
+                          X00
+                          XX0
+                          XXX
+'''
+
 x = int(input())
 y = 0
 lista = []

@@ -1,3 +1,11 @@
+'''
+Faça um programa que leia 3 números inteiros e os imprima em ordem crescente.
+Ex: Entrada: 111    Saida: 111
+             444           222
+             222           444
+            
+'''
+
 x=int(input())
 y=int(input())
 z=int(input())
