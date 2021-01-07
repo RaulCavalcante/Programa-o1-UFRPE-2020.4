@@ -11,4 +11,3 @@ lista = list(map(int,input().split(',')))
 k = int(input())
 lista_Ordenada = sorted(lista)
 print(lista_Ordenada[k-1])
-  
