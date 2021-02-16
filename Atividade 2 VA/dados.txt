@@ -1,0 +1,4 @@
+Aluno(a)/Raul/Lcc/Sem Cadastro
+Monitoria/Programacao 1/Lcc/Sem Professor
+Aluno(a)/Laura/Lcc/Monitoria/Programacao 1/Lcc/Sem Professor
+
