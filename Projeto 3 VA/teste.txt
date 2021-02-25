@@ -1,0 +1,14 @@
+jose da silva  ,   99554422  ,  jose@google.com  ,   Valido
+maria da silva  ,   99554422  ,  maria@uol.com  ,   Valido
+bolsonario  ,   5544224  ,  bozo@brasil.gov.br  ,   Valido
+pedro  ,   12345678  ,   pedrinho@yahoo.com.br  ,   Valido
+joao  ,   87654321  ,   joaozinho@google.com  ,   Valido
+rafaela   ,   66665555   ,   rafa.ela@outlook.com  ,   Valido
+Laura  ,   22334455   ,   l.laura@paraguai.gov.py  ,   Valido
+Brasil   ,   0000000  ,   sitebrasil@brasil.gov.br  ,   Valido
+Avianca   ,   32343536   ,   avianca.brasil@avianca.biz.us  ,   Valido
+caio   ,   98979695   ,   caio@@gmail.com  ,   Invalido
+breno  ,   32323232  ,   breno @canada.gov.ca  ,   Invalido
+vitor  ,   12309876   ,   vitor.cabral@yahoo .com.br  ,   Invalido
+bradesco  ,   11119999  ,   bradesco@bradesco.edu.jarbas  ,   Invalido
+santander  ,   55558888  ,   santander.brasil@santander.ger.br  ,   Invalido
